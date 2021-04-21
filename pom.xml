@@ -8,6 +8,13 @@
     <artifactId>ingresso</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
+	
+	<developers>
+		<developer>
+			<name>John Doe</name>
+			<e-mail>jdoe@example.com</e-mail>
+		</developer>
+    </developers>
 
 
     <properties>
